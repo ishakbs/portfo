@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Sans+Pro&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #292727;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 140px;
+}
+#logo{
+    margin-left: 150px;
+    display: flex;
+}
+.nav ul{
+    display: flex;
+    color: #B5B5B5;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.nav a {
+    color: #B5B5B5;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 50px;
+    font-size: 1.3em;
+}
+.nav a:hover {
+    color:#D49E19;
+}
+.main-text{
+    color: white;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 2em;
+}
+.secondary-text{
+    color: white;
+    margin-left: 250px;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+.social-media{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 150px;
+    margin-top: 150px;
+    font-size: 1.2em;
+}
+#fb{
+    max-width: 27px;
+    margin-left: 20px;
+}
+#insta{
+    max-width: 27px;
+    margin-left: 20px;
+}
+#dribbb{
+    max-width: 27px;
+    margin-left: 20px;
+}
+#be{
+    max-width: 27px;
+    margin-left: 20px;
+}
+.About{
+    margin-top: 50px;
+    color: white;
+    font-size: 2em;
+}
+#ah1{
+    margin-left: 150px;
+}
+.cont{
+    display: flex;
+}
+#abt{
+    font-size: 0.8em;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#info1{
+    max-width: 450px;
+    max-height: 350px;
+    margin-left: 150px;
+}
+#sh1{
+    color: white;
+    font-size: 62px;
+    margin-left: 150px;
+    margin-top: 200px;
+}
+#ser1{
+    color: white;
+    font-size: 28px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#webd{
+    font-weight: bold;
+}
+#serp{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 18px;
+}
+#serimg{
+    max-width: 400px;
+}
+#ux{
+    font-weight: bold;
+}
+#ser2{
+    color: white;
+    font-size: 28px;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+#serp2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 18px;
+}
+#serimg2{
+    max-width: 400px;
+}
+#h1c{
+    color: white;
+    margin-left: 150px;
+    margin-top: 100px;
+    font-size: 62px;
+}
